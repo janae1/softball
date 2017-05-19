@@ -1,0 +1,12 @@
+<html>
+<head>
+<title>softball!</title>
+<link rel="index.html" href="style.css">
+</head>
+<body>
+<h1>this is my softball website
+<img src= "softball.jpg">
+<p>This is my softball sentence #1.</p>
+<p>This is my softball sentence #2.</p>
+</body>
+<html>
